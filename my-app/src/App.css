@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  height: 100vw;
+  width: 100vh;
+}
+
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.Sidebar {
+  height: 100%;
+  width: 250px;
+  background-color: crimson;
+}
+
+.SidebarData {
+  display: inline;
+}
